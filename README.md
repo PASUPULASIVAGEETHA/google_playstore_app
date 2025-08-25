@@ -1,4 +1,9 @@
 # 📱 Google Play Store Apps Analysis
+
+## Tableau Dashboard
+You can view the interactive Tableau dashboard here:  
+👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/pasupula.siva.geetha/viz/Playstore_apps/Dashboard1)
+
 # 📌 Project Overview
 
 This project focuses on analyzing data from the Google Play Store to understand the factors that influence app success and popularity. The analysis covers data cleaning, preprocessing, exploratory data analysis (EDA), visualization, and insights extraction. The findings can help developers and businesses make informed, data-driven decisions about app development and marketing strategies.
