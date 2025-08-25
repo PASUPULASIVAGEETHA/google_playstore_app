@@ -5,7 +5,17 @@ This project focuses on analyzing data from the Google Play Store to understand 
 
 # 📊 Dataset
 
-Source: Open-source Google Play Store dataset
+## Dataset Access
+
+You can download the dataset from the following link:
+
+👉 [Download Dataset (Google Drive)](https://drive.google.com/uc?export=download&id=1Wtm4_IGr4icsAmbqkkqQTNsCPQlDaYqS)
+
+## Usage
+
+- Clone this repository:
+  ```bash
+  git clone https://github.com/USERNAME/google_playstore_app.git
 
 Key Columns:
 
