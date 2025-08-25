@@ -9,7 +9,7 @@ This project focuses on analyzing data from the Google Play Store to understand 
 
 You can download the dataset from the following link:
 
-👉 [Download Dataset (Google Drive)](https://drive.google.com/uc?export=download&id=1Wtm4_IGr4icsAmbqkkqQTNsCPQlDaYqS)
+👉 [Download Dataset (Google Drive)](https://drive.google.com/file/d/1Wtm4_IGr4icsAmbqkkq0TNScPQIDaYqS/view?usp=sharing)
 
 ## Usage
 
